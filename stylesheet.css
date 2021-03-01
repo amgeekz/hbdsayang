@@ -1275,10 +1275,10 @@ audio {
 	font-family: 'Agency FB', arial;
 	font-size: 25px;
 	text-transform: uppercase;
-	color: #1e272e;
+	color: #ff4757;
 	text-shadow: 2px 2px 2px #FFF;
 	display: none;
-	font-weight: bold;
+	font-weight: none;
 }
 
 .btn-primary {
