@@ -1272,23 +1272,23 @@ audio {
 	display: none;
 }
 .message p {
-	font-family: 'Agency FB', arial;
+	font-family: 'Apple Chancery', cursive;
 	font-size: 25px;
 	text-transform: uppercase;
 	color: #466baf;
 	text-shadow: 2px 2px 2px #FFF;
 	display: none;
-	font-weight: none;
+	font-weight: bold;
 }
 
 .btn-primary {
-        border-color: #466baf;
+        border-color: #fff;
         padding: 10px;
         text-transform: uppercase;
-        font-family: 'Agency FB', arial;
+        font-family: 'Agency FB bold', arial;
         font-weight: 700;
         color: #fff;
-        background-color: #fff;
+        background-color: #ff4757;
 }
     .btn-primary:hover,
     .btn-primary:focus,
@@ -1297,7 +1297,7 @@ audio {
     .open .dropdown-toggle.btn-primary {
         border-color: #fff;
         color: #fff;
-        background-color: #fff;
+        background-color: #ff4757;
     }
 
 
