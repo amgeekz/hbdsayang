@@ -1272,10 +1272,10 @@ audio {
 	display: none;
 }
 .message p {
-	font-family: 'Agency FB Bold', arial;
-	font-size: 30px;
+	font-family: 'Agency FB', arial;
+	font-size: 25px;
 	text-transform: uppercase;
-	color: #c23616;
+	color: #1e272e;
 	text-shadow: 2px 2px 2px #FFF;
 	display: none;
 	font-weight: bold;
@@ -1285,10 +1285,10 @@ audio {
         border-color: #466baf;
         padding: 10px;
         text-transform: uppercase;
-        font-family: 'Agency FB Bold', arial;
+        font-family: 'Agency FB', arial;
         font-weight: 700;
         color: #fff;
-        background-color: #466baf;
+        background-color: #ff4757;
 }
     .btn-primary:hover,
     .btn-primary:focus,
@@ -1297,7 +1297,7 @@ audio {
     .open .dropdown-toggle.btn-primary {
         border-color: #fff;
         color: #fff;
-        background-color: #466baf;
+        background-color: #ff4757;
     }
 
 
