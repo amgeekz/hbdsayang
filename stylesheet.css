@@ -1087,7 +1087,7 @@ audio {
 }
 .balloons h2 {
 	text-transform: uppercase;
-	font-family: 'Agency FB Bold', arial;
+	font-family: 'Marker Felt', fantasy;
 	font-size: 50px;
 	color: #BF4136;
 	text-shadow: 5px 5px 5px #FFF;
@@ -1272,20 +1272,20 @@ audio {
 	display: none;
 }
 .message p {
-	font-family: 'Apple Chancery', cursive;
+	font-family: 'Marker Felt', fantasy;
 	font-size: 25px;
 	text-transform: uppercase;
-	color: #466baf;
+	color: #ff4757;
 	text-shadow: 2px 2px 2px #FFF;
 	display: none;
 	font-weight: bold;
 }
 
 .btn-primary {
-        border-color: #ff4757;
+        border-color: #fff;
         padding: 10px;
         text-transform: uppercase;
-        font-family: 'Agency FB bold', arial;
+        font-family: 'Marker Felt', fantasy;
         font-weight: 700;
         color: #fff;
         background-color: #ff4757;
