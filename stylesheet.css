@@ -1275,7 +1275,7 @@ audio {
 	font-family: 'Agency FB', arial;
 	font-size: 25px;
 	text-transform: uppercase;
-	color: #ff4757;
+	color: #466baf;
 	text-shadow: 2px 2px 2px #FFF;
 	display: none;
 	font-weight: none;
@@ -1288,7 +1288,7 @@ audio {
         font-family: 'Agency FB', arial;
         font-weight: 700;
         color: #fff;
-        background-color: #ff4757;
+        background-color: #fff;
 }
     .btn-primary:hover,
     .btn-primary:focus,
@@ -1297,7 +1297,7 @@ audio {
     .open .dropdown-toggle.btn-primary {
         border-color: #fff;
         color: #fff;
-        background-color: #ff4757;
+        background-color: #fff;
     }
 
 
